@@ -1,0 +1,20 @@
+[
+  {
+    "id": "p1",
+    "nume": "Ion Popescu",
+    "descriere": "Un pasionat de sport și tehnologie.",
+    "poza": "img/ion.jpg"
+  },
+  {
+    "id": "p2",
+    "nume": "Maria Ionescu",
+    "descriere": "Expertă în design grafic și fotografie.",
+    "poza": "img/maria.jpg"
+  },
+  {
+    "id": "p3",
+    "nume": "Alex Dumitru",
+    "descriere": "Antreprenor în domeniul IT.",
+    "poza": "img/alex.jpg"
+  }
+]
