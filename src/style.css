@@ -2592,11 +2592,11 @@ NavigationContainer [data-esacomponent-type='NavigationContainer'] > *,
 }
 
 .esaxzjyA.esa128kipa {
-  --selection-background-color: #383838;
+  --selection-background-color: #ffffff;
   --selection-color: #ffffff;
   align-content: center;
   align-items: center;
-  background-color: #121212;
+  background-color: #ffffff;
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
@@ -16115,7 +16115,7 @@ h2.text-912 {
 .framer-styles-preset-h23:not(.rich-text-wrapper)  { 
     --framer-font-family: "Inter", "Inter Placeholder", sans-serif; 
     --framer-font-open-type-features: normal; 
-    --framer-font-size: 114px; 
+    --framer-font-size: 90px; 
     --framer-font-style: normal; 
     --framer-font-variation-axes: normal; 
     --framer-font-weight: 600; 
@@ -18703,7 +18703,7 @@ span.esa_2025_text:not([data-text-fill]) {
   transform: none;
 }
 #esa_2025_member1_card {
-  background-color: var(--token-88d5059b-bc5d-4e0a-ad79-b21e9a2c4948, #0a0a0a);
+  background-color: #3a3a3a;
   height: 100%;
   width: 100%;
   border-radius: 18px;
